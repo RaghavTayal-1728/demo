@@ -1,4 +1,4 @@
 # demo
 This is my first git repository
 <br>
-Author- Raghav Tayal
+Author- Raghav Tayal(student)
